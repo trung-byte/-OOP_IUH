@@ -14,7 +14,7 @@ public class hw1 {
 
         int[][] A = new int[n][n];
         System.out.println("Nhập vào các phần tử của ma trận A: ");
-        for (int i = 0; i < n; i++) {sdfgbzfxbfghsfhg
+        for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 System.out.print("A[" + i + "][" + j + "] = ");
                 A[i][j] = scanner.nextInt();
